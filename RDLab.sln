@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLab.Client", "RDLab.Client\RDLab.Client.csproj", "{A13F8F56-AB44-4BBF-874D-52CE0D994ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLab.Contracts", "RDLab.Contracts\RDLab.Contracts.csproj", "{66E3081E-F5E6-41CF-97B3-B3CAAE8B03F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDlab.Server", "RDLab.Server\RDlab.Server.csproj", "{3F7066CC-32D4-46A7-9244-5311D295B76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13F8F56-AB44-4BBF-874D-52CE0D994ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13F8F56-AB44-4BBF-874D-52CE0D994ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13F8F56-AB44-4BBF-874D-52CE0D994ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13F8F56-AB44-4BBF-874D-52CE0D994ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E3081E-F5E6-41CF-97B3-B3CAAE8B03F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E3081E-F5E6-41CF-97B3-B3CAAE8B03F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E3081E-F5E6-41CF-97B3-B3CAAE8B03F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E3081E-F5E6-41CF-97B3-B3CAAE8B03F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7066CC-32D4-46A7-9244-5311D295B76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7066CC-32D4-46A7-9244-5311D295B76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7066CC-32D4-46A7-9244-5311D295B76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7066CC-32D4-46A7-9244-5311D295B76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BBD281-9C72-46CF-A00E-C0E136D73425}
+	EndGlobalSection
+EndGlobal
