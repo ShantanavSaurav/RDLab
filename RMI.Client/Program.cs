@@ -1,8 +1,8 @@
 ﻿using System;
 using System.ServiceModel;
-using RDLab.Contracts;
+using RMI.Contracts;
 
-namespace RDLab.Client {
+namespace RMI.Client {
     class Program {
         /// <summary>
         /// Main Method establishes TCP connection given a socket, and uses an interface to interact with the remote queue service.

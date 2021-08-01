@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace RDLab.Contracts {
+namespace RMI.Contracts {
     /// <summary>
     /// Interface for CustomQueue: define invocable methods for queue operations under a service contract.
     /// Both Client and Server must reference this class.

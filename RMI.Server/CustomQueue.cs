@@ -1,5 +1,5 @@
 ﻿using System.ServiceModel;
-using RDLab.Contracts;
+using RMI.Contracts;
 
 namespace Test.Server {
     /// <summary>
