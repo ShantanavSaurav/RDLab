@@ -1,7 +1,7 @@
 ﻿using System.ServiceModel;
 using RMI.Contracts;
 
-namespace Test.Server {
+namespace RMI.Server {
     /// <summary>
     /// Custom Queue Implementation using Linked List.
     /// ServiceBehavior attribute applies contract defined in interface.

@@ -2,7 +2,7 @@
 using System.ServiceModel;
 using RMI.Contracts;
 
-namespace Test.Server {
+namespace RMI.Server {
     /// <summary>
     /// Main Program class for Server
     /// </summary>

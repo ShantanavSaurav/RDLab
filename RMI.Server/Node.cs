@@ -1,4 +1,4 @@
-﻿namespace Test.Server {
+﻿namespace RMI.Server {
     /// <summary>
     /// LinkNode for LinkedList. Value is immutable.
     /// </summary>

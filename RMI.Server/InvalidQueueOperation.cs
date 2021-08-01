@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Test.Server {
+namespace RMI.Server {
     /// <summary>
     /// Custom Exception for Invalid Queue Operations
     /// </summary>
